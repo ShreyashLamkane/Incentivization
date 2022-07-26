@@ -18,7 +18,7 @@ plt.rcParams['figure.figsize']=(12,6)
 # In[2]:
 
 
-df=pd.read_csv('E:/Placement courses/ML Projects/Incentivization/driver-data.csv')
+df=pd.read_csv('driver-data.csv')
 df.head()
 
 
